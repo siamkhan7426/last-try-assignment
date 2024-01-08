@@ -56,3 +56,45 @@
   font-weight: 900;
   line-height: 95px; /* 131.944% */
 }
+
+/* header end */
+
+/* section-1 star */
+.section-1 {
+  width: 1600px;
+  height: 7335px;
+  background: #fff;
+}
+.section-text-1 {
+  margin: auto;
+  width: 50%;
+  padding: 70px;
+  text-align: center;
+}
+#img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto
+}
+.section-h-1 {
+  color: #f00;
+  font-family: Inter;
+  font-size: 88px;
+  font-weight: 700;
+  padding-bottom: 48px;
+}
+.section-h-4 {
+  color: #f00;
+  font-family: Inter;
+  font-size: 24px;
+  font-weight: 500;
+  padding-bottom: 5px;
+}
+#section-h-3 {
+  color: #070211;
+  text-align: center;
+  font-family: Inter;
+  font-size: 48px;
+
+  font-weight: 700;
+}
