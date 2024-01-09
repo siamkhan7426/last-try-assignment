@@ -261,7 +261,7 @@ button {
   width: 364px;
   height: 364px;
   border-radius: 364.844px;
-  background: url(imges/ellipse\ 1.png),
+  background: url('../imges/ellipse\ 1.png'),
     lightgray -91.279px 0px / 150.038% 100% no-repeat;
     border: 2px solid red;
 }
@@ -362,7 +362,7 @@ margin-left: auto;
   height: 735px;
   margin-left: auto;
   margin-right: auto;
-  background-image: url('imges/al\ dis.jpg');
+  background-image: url('../imges/al dis.jpg');
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
