@@ -310,10 +310,9 @@ line-height: 32px;
 
 .section-5-parent{
   display: block;
-  width: 1600px;
-  height: 1200px;
+  width: 1400px;
+  height: 1000px;
   background: #FFF;
-  border: 2px solid crimson;
   margin: auto;
 }
 .section-5-text{
@@ -347,5 +346,11 @@ margin-left: auto;
 
 }
 .section-5-img-box{
-  
+  display: block;
+  width: 1320px;
+  height: 660px;
+  margin-left: auto;
+  margin-right: auto;
+  background-image: url('/imges/al\ dis.jpg');
+  margin-top: 80px;
 }
