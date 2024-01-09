@@ -219,21 +219,32 @@ button {
 
 /* section-h-4 star */
 .section-4-parent {
+  display: flex;
   width: 1600px;
   height: 735px;
+  justify-content: space-evenly;
+  border: 2px solid blue;
+  align-items: center;
+  align-content: center;
+  margin-left: auto;
+  margin-right: auto
+  
+
+  
+  /* 
   background: #fff;
   display: block;
   margin-left: auto;
   margin-right: auto;
   margin-top: 100px;
-  border: 2px solid blue;
+   */
 }
 .boder-box-4 {
   position: relative;
-  left: 500px;
-  top: 0;
-  bottom: 0;
-  right: 0;
+  left:0;
+  top:0;
+  bottom:0;
+  right:0;
   width: 463px;
   height: 463px;
   border-radius: 463px;
@@ -251,7 +262,32 @@ button {
   background: url(/imges/ellipse\ 1.png),
     lightgray -91.279px 0px / 150.038% 100% no-repeat;
 }
+.section-4-left {
+
+}
+.section-4-h-3 {
+  color: #f00;
+  font-family: Inter;
+  font-size: 24px;
+  font-weight: 500;
+}
+
+.section-4-h-1 {
+  color: #070211;
+  font-family: Merriweather;
+  font-size: 48px;
+  font-weight: 900;
+  text-transform: capitalize;
+}
+.section-d-dep {
+  width: 393px;
+  color: rgba(7, 2, 17, 0.6);
+  font-family: Inter;
+  font-size: 20px;
+  font-weight: 400;
+  line-height: 32px; /* 160% */
+}
+
 .section-4-right {
-  display: block;
-  float: right;
+  
 }
