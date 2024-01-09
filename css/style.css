@@ -304,3 +304,48 @@ line-height: 32px;
   height: 140px;
   margin-top: 46px;
 }
+/* section-4 end */
+
+/* section-5 star */
+
+.section-5-parent{
+  display: block;
+  width: 1600px;
+  height: 1200px;
+  background: #FFF;
+  border: 2px solid crimson;
+  margin: auto;
+}
+.section-5-text{
+  text-align: center;
+}
+.section-5-h-4{
+  color: #070211;
+  font-family: Inter;
+  font-size: 24px;
+  font-weight: 500;
+  margin-bottom: 5px;
+}
+.section-5-h-2{
+  color: #F00;
+text-align: center;
+font-family: Merriweather;
+font-size: 72px;
+font-weight: 900;
+margin-bottom: 28px;
+
+}
+.section-5-dep{
+width: 1068px; 
+color: rgba(7, 2, 17, 0.60);
+font-family: Inter;
+font-size: 20px;
+font-weight: 500;
+line-height: 32px; /* 160% */
+margin-right: auto;
+margin-left: auto;
+
+}
+.section-5-img-box{
+  
+}
