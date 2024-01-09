@@ -282,3 +282,25 @@ button {
   line-height: 32px; /* 160% */
   margin-top: 0;
 }
+.section-4-right-text{
+color: #F00;
+font-family: Inter;
+font-size: 48px;
+font-weight: 700;
+margin-bottom: 16px;
+
+}
+
+.section-dep{
+  width: 276px;
+  color: rgba(7, 2, 17, 0.60);
+font-family: Inter;
+font-size: 20px;
+font-weight: 400;
+line-height: 32px; 
+}
+#group-96{
+  width: 140px;
+  height: 140px;
+  margin-top: 46px;
+}
