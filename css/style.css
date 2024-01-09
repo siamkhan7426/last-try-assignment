@@ -354,3 +354,45 @@ margin-left: auto;
   background-image: url('/imges/al\ dis.jpg');
   margin-top: 80px;
 }
+
+/* section-5 end */
+
+
+/* section-6 star  */
+.section-6-shopping{
+  width: 1200px;
+height: 1000px;
+background-color: #FFF;
+border: solid crimson;
+margin-left: auto;
+margin-right: auto;
+margin-top: 40px;
+}
+.section-6-text{
+  text-align: left;
+  margin-left: 10px;
+}
+.section-6-h3{
+color: #F00;
+font-family: Inter;
+font-size: 24px;
+font-weight: 500;
+margin-bottom: 5px;
+}
+.section-6-h2{
+color: #070211;
+font-family: Merriweather;
+font-size: 48px;
+font-weight: 900;
+text-transform: capitalize;
+margin-bottom: 20px;
+}
+.section-6-dep{
+width: 896px;
+ color: rgba(7, 2, 17, 0.60);
+font-family: Inter;
+font-size: 20px;
+font-weight: 400;
+line-height: 32px; 
+margin-bottom: 45px;
+}
