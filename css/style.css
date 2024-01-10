@@ -589,8 +589,12 @@ hr{
   text-align: center;
   margin-top: 50px;
   margin-bottom: 30px;
+  
 }
 
+.social-im{
+  margin-right: 10px;
+}
 
 .fot-last-text{
   display: flex;
