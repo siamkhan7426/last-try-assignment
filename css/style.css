@@ -532,6 +532,7 @@ footer{
   background: #070211;
   color: #FFF;
   margin-top: 100px;
+
 }
 
 .foter-icon-flex{  
@@ -542,8 +543,8 @@ footer{
   padding: 120px;
   flex-direction: row;
   flex-wrap: wrap;
-  margin-left: 140px;
-  margin-right: 140px;
+  margin-left: 20px;
+  margin-right: 20px;
     
 }
 .foter-tex{
@@ -588,4 +589,25 @@ hr{
 
 .fot-last-text{
   display: flex;
+  justify-content: space-between;
+  align-items: baseline;
+  align-content: center;
+  flex-direction: row;
+  flex-wrap: wrap;
+  margin-top: 50px;
+  margin-bottom: 10px;
+}
+.fot-1-dib , fot-tex{
+color: #FFF;
+font-family: Inter;
+font-size: 24px;
+font-weight: 500;
+margin-left: 150px;
+}
+.fot-2-dib{
+color: #FFF;
+font-family: Inter;
+font-size: 24px;
+font-weight: 500;
+margin-right: 150px;
 }
