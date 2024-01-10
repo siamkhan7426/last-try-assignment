@@ -20,12 +20,12 @@
   height: 600px;
   border-radius: 16px;
   background: linear-gradient(180deg, #070211 0%, rgba(7, 2, 17, 0) 100%),
-    url('../imges/banner Image.png');
+    url('../imges/bannerImage.png');
   margin-left: auto;
   margin-right: auto;
   margin-bottom: 0;
   margin-top: 50px;
-  border: 2px solid red;
+  
   
 }
 .parent-text {
@@ -67,7 +67,6 @@
   width: 1320px;
   height: 900px;
   background: #fff;
-  border: 2px solid red;
   margin-left: auto;
   margin-right: auto;
   margin-top: 40px;
@@ -120,13 +119,13 @@
   background-position: center;
   background-size: cover;
   margin-top: 100px;
-  border: 2px solid red;
+  
   
 }
 #img-2024 {
   display: inline-block;
-   margin-top: 52px;
-  margin-left: 184px; */
+  margin-top: 52px;
+  margin-left: 184px;
   
  }
 
@@ -154,7 +153,7 @@
   font-family: Inter;
   font-size: 18px;
   font-weight: 400;
-  line-height: 30px; /* 166.667% */
+  line-height: 30px; 
    margin-bottom: 45px;
 }
 .sction-2-h-6 {
@@ -184,7 +183,6 @@
   margin-right: auto;
   margin-top: 100px;
   margin-bottom: 100px;
-  border: 2px solid red;
 }
 
 .section-text-3 {
@@ -237,7 +235,7 @@ button {
 /* <!-- section-4-new best offer  star --> */
 
 
-  /* .section-4-parent {
+   .section-4-parent {
   display: flex;
   width: 1320px;
   height: 735px;
@@ -246,10 +244,10 @@ button {
   align-content: center;
   margin-left: auto;
   margin-right: auto;
-  border: 2px solid red;
-} */
+  
+} 
 
-/* .boder-box-4 {
+.boder-box-4 {
   position: relative;
   left: 0;
   top: 0;
@@ -259,9 +257,9 @@ button {
   height: 463px;
   border-radius: 463px;
   border: 15px solid #f00;
-}  */
+}  
 
- /* .section-4-img {
+  .section-4-img {
   position: absolute;
   bottom: 20px;
   left: 45px;
@@ -270,28 +268,28 @@ button {
   width: 364px;
   height: 364px;
   border-radius: 364.844px;
-  background: url('../imges/ellipse\ 1.png'),
+  background: url('../imges/ellipse1.png'),
     lightgray -91.279px 0px / 150.038% 100% no-repeat;
-    border: 2px solid red;
-}  */
+    
+}  
 
- /* .section-4-h-3 {
+  .section-4-h-3 {
   color: #f00;
   font-family: Inter;
   font-size: 24px;
   font-weight: 500;
   margin-bottom: 6px;
-} */
+} 
 
-/* .section-4-h-1 {
+ .section-4-h-1 {
   color: #070211;
   font-family: Merriweather;
   font-size: 48px;
   font-weight: 900;
   text-transform: capitalize;
   margin-bottom: 20px;
-}  */
-  /* .section-d-dep {
+} 
+   .section-d-dep {
   width: 393px;
   color: rgba(7, 2, 17, 0.6);
   font-family: Inter;
@@ -299,30 +297,33 @@ button {
   font-weight: 400;
   line-height: 32px;
    margin-top: 0; 
-}  */
-/* .section-4-right-text{
+} 
+.section-4-right-text{
 color: #F00;
 font-family: Inter;
 font-size: 48px;
 font-weight: 700;
-/* margin-bottom: 16px; */
+margin-bottom: 16px;
 
-/* }  */ */
-
+ }
  
-/* .section-dep{
-  width: 276px;
-  color: rgba(7, 2, 17, 0.60);
+ #section-dep-4{
+width: 276px;
+color: rgba(7, 2, 17, 0.60);
 font-family: Inter;
 font-size: 20px;
 font-weight: 400;
 line-height: 32px; 
+
 }
-#group-96{
+  
+ 
+
+ #group-96{
   width: 140px;
   height: 140px;
   margin-top: 46px;
-}  */
+} 
 
 
 /* <!-- section-4-new best offer  end --> */
@@ -340,7 +341,6 @@ line-height: 32px;
   background: #FFF;
   margin-left: auto;
   margin-right: auto;
-  border: 2px solid red;
   margin-top: 100px;
 }
 .section-5-text{
@@ -379,7 +379,7 @@ margin-left: auto;
   height: 900px;
   margin-left: auto;
   margin-right: auto;
-  background-image: url('../imges/al dis.jpg');
+  background-image: url('../imges/aldis.jpg');
   background-position: center;
   background-repeat: no-repeat;
   background-size: contain;
@@ -396,7 +396,6 @@ margin-left: auto;
 #section-6-shopping{
   width: 1320px;
   height: 1170px;
-  border:2px solid red ;
   background-color: #FFF;
   margin-left: auto;
   margin-right: auto;
@@ -455,7 +454,6 @@ margin-bottom: 45px;
   margin: 0 auto;
   border-radius: 16px;
   background: rgba(255, 0, 0, 0.05);
-  border: 2px solid coral;
   margin-top: 100px;
 }
 .img-email{
@@ -525,6 +523,13 @@ input[type="email"]{
 /* section-7 end */
 
 /*fooer section-8 star */
+
+.footer-bg{
+width: 100% !important;
+float: left;
+display: block;
+background: #070211;
+}
 
 footer{
   width: 100%;
